@@ -8,7 +8,7 @@ O objetivo é facilitar o trabalho de inventário em clientes, gerando automatic
 
 # Funcionalidades
 
-✔ Identifica automaticamente:
+ Identifica automaticamente:
 
 - Nome da máquina
 - Modelo do equipamento
@@ -22,7 +22,7 @@ O objetivo é facilitar o trabalho de inventário em clientes, gerando automatic
 - Versão do Windows
 - Status da licença do Windows
 
-✔ Permite adicionar manualmente:
+ Permite adicionar manualmente:
 
 - Nome do usuário
 - Setor
@@ -32,11 +32,11 @@ O objetivo é facilitar o trabalho de inventário em clientes, gerando automatic
 - Chave de licença manual
 - Observações
 
-✔ Exportação automática para **Excel**
+ Exportação automática para **Excel**
 
-✔ Planilha **acumulativa**, adicionando cada máquina na próxima linha
+ Planilha **acumulativa**, adicionando cada máquina na próxima linha
 
-✔ Layout organizado para envio ao cliente
+ Layout organizado para envio ao cliente
 
 ---
 
